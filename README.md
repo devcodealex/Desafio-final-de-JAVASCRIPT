@@ -1,4 +1,4 @@
-# Desafio-final-de-JAVASCRIPT
+# Conversor de moedas
 Este é um simples conversor de moedas que converte de Real Brasileiro para outras três moedas: Dólar Americano, Euro e Bitcoin. O projeto foi desenvolvido como parte do desafio final do curso de JavaScript do CodeClub.
 
 ## Funcionamento
